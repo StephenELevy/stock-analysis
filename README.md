@@ -1,3 +1,3 @@
-# Green-stocks.xlsm after revision in App to calculate DQ 2018 yearly volume
+# Green-stocks.xlsm after revision to calculate 2018 yearly volume & return
 
 Folder for Green Stocks analyses
