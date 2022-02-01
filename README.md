@@ -1,3 +1,3 @@
-# Initial Green-stocks.xlsm file with test app for "Hello World!"
+# Green-stocks.xlsm after revision in App to include range and cells
 
 Folder for Green Stocks analyses
