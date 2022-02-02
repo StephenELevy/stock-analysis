@@ -1,3 +1,3 @@
-# Green-stocks.xlsm after revision to calculate 2018 yearly volume & return
+# Green-stocks.xlsm - 2018 volume and stock return, nested loop, & clear cells
 
-Folder for Green Stocks analyses
+## Green-stocks.xlsm file contains Skill Drill for Module 2.3.1 (Next loop & Clear Contents program)
