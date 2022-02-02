@@ -1,3 +1,3 @@
-# Green-stocks.xlsm - 2018 volume and stock return, nested loop, & clear cells
+# Green-stocks.xlsm - 2018 volume and stock returns for multiple stocks using array and nested loops
 
-## Green-stocks.xlsm file contains Skill Drill for Module 2.3.1 (Next loop & Clear Contents program)
+## Green-stocks.xlsm file contains total volume and 2018 yearly returns for multiple stocks using an Array and Nexted Loop using REFACTORED CODE
